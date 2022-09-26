@@ -1,0 +1,15 @@
+.anim:hover {
+	transform: scale(1.02, 1.02);
+	transition: ease-in-out 0.5s;
+	cursor: pointer;
+}
+.txnviewTitle {
+	font-size: 14px;
+}
+.feesviewTitle {
+	font-size: 14px;
+}
+
+.zoom {
+	zoom: 90%;
+}
